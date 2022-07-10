@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+.conteiner {
+    height: 675px;
+    width: 1200px;
+    background-color: rgb(246, 246, 246);
+}
+
+.box {
+    height: 505px;
+    width: 1013px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 94px;
+    top: 85px;
+}
+
+.headphones {
+    margin-top: 65px;
+    margin-left: 49px;
+    display: inline-block;
+}
+
+.beats {
+    display: inline-block;
+    position: absolute;
+    left: 524px;
+    top: 95px;
+}
+
+.maintext {
+    display: inline-block;
+    position: absolute;
+    left: 525px;
+    top: 147px;
+}
+
+.price {
+    display: inline-block;
+    position: absolute;
+    left: 525px;
+    top: 252px;
+}
+
+.numbers {
+    display: inline-block;
+    position: absolute;
+    left: 527px;
+    top: 289px;
+}
+
+.basket {
+    display: inline-block;
+    position: absolute;
+    left: 526px;
+    top: 372px;
+}
